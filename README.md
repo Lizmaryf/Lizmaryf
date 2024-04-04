@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Lizmary 👋
+#### I'm learning how to code Swift ui
 
 <!--
 **Lizmaryf/Lizmaryf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
